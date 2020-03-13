@@ -8,7 +8,7 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.miake.winter</groupId>
+    <groupId>com.maike.winter</groupId>
     <artifactId>redis-distribute-lock-spring-boot-starter</artifactId>
     <version>3.0.1-SNAPSHOT</version>
     <!--<packaging>jar</packaging>-->
@@ -136,12 +136,12 @@
         <repository>
             <id>nexus</id>
             <name>Releases</name>
-            <url>http://114.55.146.196:8081/repository/maven-releases/</url>
+            <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Snapshot</name>
-            <url>http://114.55.146.196:8081/repository/maven-snapshots/</url>
+            <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 

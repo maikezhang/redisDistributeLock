@@ -1,4 +1,4 @@
-package com.miake.winter.redis;
+package com.maike.winter.redis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

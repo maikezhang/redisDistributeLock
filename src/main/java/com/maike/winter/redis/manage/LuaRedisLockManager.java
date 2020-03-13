@@ -1,6 +1,6 @@
-package com.miake.winter.redis.manage;
+package com.maike.winter.redis.manage;
 
-import com.miake.winter.redis.config.LockProperties;
+import com.maike.winter.redis.config.LockProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

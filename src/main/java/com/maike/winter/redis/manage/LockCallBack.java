@@ -1,4 +1,4 @@
-package com.miake.winter.redis.manage;
+package com.maike.winter.redis.manage;
 
 /**
  * @author maike

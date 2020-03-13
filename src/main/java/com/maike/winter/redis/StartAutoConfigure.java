@@ -1,6 +1,6 @@
-package com.miake.winter.redis;
+package com.maike.winter.redis;
 
-import com.miake.winter.redis.config.LockProperties;
+import com.maike.winter.redis.config.LockProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

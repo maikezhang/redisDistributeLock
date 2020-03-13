@@ -1,4 +1,4 @@
-package com.miake.winter.redis.config;
+package com.maike.winter.redis.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
